@@ -79,7 +79,7 @@ Usage
 
 To run the MOLON simulation the user only needs to choose the input data source: an URL, a PID or a local file. The application will then be executed remotely and the result presented to the user as a tar.gz file. 
 
-.. image:: images/input.jpg
+.. image:: images/input.png
    :align: center
 
 Each run will produce:
@@ -101,12 +101,11 @@ References
 * CHAIN-REDS Conference: *"Open Science at the Global Scale: Sharing e-Infrastructures, Sharing Knowledge, Sharing Progress"* – March 31, 2015 – Brussels, Belgium [1_];
 
 ============
-Support
+Contributions
 ============
 Please feel free to contact us any time if you have any questions or comments.
 
 .. _Sci-Track: http://rdgroups.ciemat.es/web/sci-track/
-.. _INFN: http://www.ct.infn.it/
 
 :Authors:
  `Manuel RODRIGUEZ-PASCUAL <mailto:manuel.rodriguez@ciemat.es>`_ - CIEMAT Sci-Track
