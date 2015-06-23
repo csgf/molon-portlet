@@ -1,6 +1,6 @@
-*********************
-MOLON v1.0.1 Docs
-*********************
+*****
+MOLON
+*****
 
 ============
 About
@@ -111,6 +111,4 @@ Please feel free to contact us any time if you have any questions or comments.
  `Manuel RODRIGUEZ-PASCUAL <mailto:manuel.rodriguez@ciemat.es>`_ - CIEMAT Sci-Track
 
 
-:Version: v1.0.0, 2015
 
-:Date: Jun 1th, 2015
